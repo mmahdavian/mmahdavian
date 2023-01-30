@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmahdavian
 - 👀 I’m interested in AI application in Robotic Navigation
-- 🌱 I’m currently working on Human Motion Prediction for Robotic Purposes
+- 🌱 I’m currently working on Deep Learning and Machine Learning methods (such as Transformers) application in Cars and Robots' Navigation 
 - 📫 mmahdavi@sfu.ca
 
 <!---
