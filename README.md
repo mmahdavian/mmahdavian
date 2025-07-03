@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmahdavian
-- 👀 I’m interested in AI application in Robotic Navigation
-- 🌱 I’m currently working on Deep Learning and Machine Learning methods (such as Transformers) application in Cars and Robots' Navigation 
-- 📫 mmahdavi@sfu.ca
+- 👀 I’m interested in AI and Computer Vision application in Robotic Navigation
+- 🌱 I’m currently working on Computer Vision and Machine Learning methods for autonomous robots and vehicle.
+- 📫 mohamad.mah11@gmail.com
 
 <!---
 mmahdavian/mmahdavian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
